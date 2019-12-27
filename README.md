@@ -1,2 +1,2 @@
-# gogoWebProject
-전자정부프레임워크 기반 게시판
+# DaeJeonTourHompage
+전자정부프레임워크 기반 대전광역시 소개 
